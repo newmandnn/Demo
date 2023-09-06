@@ -1,4 +1,7 @@
 #!/bin/bash
+mkdir /home/ubuntu/Git
+ls -la
+pwd
 cd Git
 git clone git@github.com:newmandnn/Demo.git
 cd Demo
